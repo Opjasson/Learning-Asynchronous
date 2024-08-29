@@ -1,0 +1,26 @@
+[
+        {
+            "nama" : "Rudi tabudi",
+            "jabatan" : "Dosen ilmu penipu",
+            "email" : "rudi@gmail.com",
+            "alamat" : "Jalan merak merpati",
+            "id"    : 1
+        },
+    
+        {
+            "nama" : "Agus kotak",
+            "jabatan" : "Dosen ilmu alam",
+            "email" : "Agus@gmai.com",
+            "alamat" : "jalan meroket",
+            "id"    : 2
+        },
+    
+        {
+            "nama" : "agness monikah",
+            "jabatan" : "Dosen penari",
+            "email" : "agnes@gmai.com",
+            "alamat" : "jalan tertipu",
+            "id"    : 3
+        }
+    
+]

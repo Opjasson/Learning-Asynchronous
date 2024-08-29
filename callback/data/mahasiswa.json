@@ -1,0 +1,26 @@
+[
+        {
+            "nama" : "Jasson nurmagomedove",
+            "jabatan" : "Junior programmer",
+            "email" : "jasson@gmai.com",
+            "alamat" : "jalan mejasem baru 4",
+            "id"    : 1
+        },
+    
+        {
+            "nama" : "RObert stewart",
+            "jabatan" : "Junior programmer",
+            "email" : "roberth@gmai.com",
+            "alamat" : "jalan priuk jaya",
+            "id"    : 2
+        },
+    
+        {
+            "nama" : "Agus styanovanto",
+            "jabatan" : "Junior programmer",
+            "email" : "agus@gmai.com",
+            "alamat" : "jalan angkasa raya",
+            "id"    : 3
+        }
+    
+]
